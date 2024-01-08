@@ -1,0 +1,29 @@
+{
+  "appSettings": {
+    "appName": "Flutter Explorer",
+    "version": "2.1.0",
+    "apiEndpoint": "https://api.flutterexplorer.com",
+    "enableLogging": true,
+    "featureFlags": {
+      "useMockData": false,
+      "enableNotifications": true,
+      "enableDarkMode": false
+    }
+  },
+  "themeSettings": {
+    "lightTheme": {
+      "primaryColor": "#3498db",
+      "secondaryColor": "#ecf0f1",
+      "fontFamily": "Roboto"
+    },
+    "darkTheme": {
+      "primaryColor": "#34495e",
+      "secondaryColor": "#2c3e50",
+      "fontFamily": "Roboto"
+    }
+  },
+  "userPreferences": {
+    "defaultLanguage": "en",
+    "enableAnimations": true
+  }
+}
